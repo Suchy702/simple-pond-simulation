@@ -1,2 +1,3 @@
 # simple-pond-simulation
-Simple simulation for OP cours. 
+Project for Object Programming course.
+    
